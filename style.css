@@ -40,7 +40,7 @@ html, body {
     height: 20rem;
     cursor: pointer;
     transition: 0.5s;
-    filter: brightness(0.04);
+    filter: brightness(0.02);
 }
 .container .item:hover {
     filter: brightness(1);
